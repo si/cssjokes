@@ -15,6 +15,10 @@
 	direction: ltr;
 }
 
+.tories {
+	top: 1%;
+}
+
 .hmps {
 	empty-cells: hidden;
 }
