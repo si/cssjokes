@@ -14,3 +14,7 @@
 .lib-dem {
 	direction: ltr;
 }
+
+.hmps {
+	empty-cells: hidden;
+}
