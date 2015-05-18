@@ -6,10 +6,6 @@
 	transform: scale(1.5) rotate(120deg);
 }
 
-.ellie {
-	content: "loud";
-}
-
 .immigrant {
 	overflow: hidden;
 }
