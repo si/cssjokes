@@ -10,3 +10,7 @@
 	border: none;
 	overflow: hidden;
 }
+
+.lib-dem {
+	direction: ltr;
+}
