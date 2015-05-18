@@ -12,7 +12,7 @@
 }
 
 .kkk {
-	white-space: normal;
+	white-space: normal !important;
 }
 
 .lib-dem {
