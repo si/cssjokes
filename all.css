@@ -36,5 +36,9 @@
 	visibility:hidden;
 }
 
-
+.wife {
+	right: 100%;
+	margin: 0;
+	padding-bottom: 0 !important;
+}
 
